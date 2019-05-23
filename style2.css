@@ -1,0 +1,52 @@
+*{
+    font-family: 'Akronim', cursive;
+}
+body{
+ background-image:linear-gradient(to right, #3fc5a2 , #267c9f);
+ text-align: center;
+}
+form{
+    border: 1px solid grey;
+    background-color:#3db8a3;
+    display: inline-block;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px 0px;
+    width:500px;
+    margin-top: 150px;
+}
+label{
+    display: block;
+    text-align: left;
+    margin: 5px;
+
+}
+input{
+    display: block;
+    width: 250px;
+    padding: 2px;
+    border-radius: 5px;
+    border: 1px solid #482121c2;
+    color: black;
+    font-size: 12px;
+}
+
+
+button{
+    text-align: left;
+    background-color:#042dea4f; 
+    border: none;
+    padding: 1em 3em;
+    margin-top: 12px;
+    
+}
+button:hover{
+    background-color: #3fc5a2
+}
+a{
+    margin-left: 2em;
+    color: black;
+}
+.button{
+    text-align: left;
+}
